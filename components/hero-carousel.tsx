@@ -14,17 +14,17 @@ const slides = [
   {
     title: "Suero de Tocosh",
     subtitle: "Muy bueno para la salud, rico en probióticos naturales",
-    image: "/tocosh-drink-bottle.jpg",
+    image: "/suerotocosh.jpg",
   },
   {
     title: "Bebida de Tocosh",
     subtitle: "Refrescante y saludable, ideal para toda la familia",
-    image: "/tocosh-drink-bottle.jpg",
+    image: "/tocosh-drink-bottle (2).jpg",
   },
   {
     title: "Postre Tradicional",
     subtitle: "Mazamorra de tocosh, un sabor único y tradicional",
-    image: "/mazamorra-tocosh-dessert.jpg",
+    image: "/tocosh-drink-bottle.jpg",
   },
 ]
 

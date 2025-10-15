@@ -13,7 +13,7 @@ export const products: Product[] = [
     name: "Mazamorra de Tocosh",
     description: "Postre tradicional de tocosh, rico y nutritivo",
     price: 15.0,
-    image: "/mazamorra-tocosh-dessert.jpg",
+    image: "/mazamorra.png",
     category: "mazamorra",
   },
   {
@@ -21,7 +21,7 @@ export const products: Product[] = [
     name: "Harina de Tocosh",
     description: "Harina de tocosh, ideal para preparaciones saludables",
     price: 18.0,
-    image: "/tocosh-flour-package.jpg",
+    image: "/HarinaTocosh.png",
     category: "harina",
   },
   {
@@ -29,7 +29,7 @@ export const products: Product[] = [
     name: "Bebida de Tocosh",
     description: "Refrescante bebida de tocosh, muy buena para la salud",
     price: 22.0,
-    image: "/tocosh-drink-bottle.jpg",
+    image: "/tocosh-drink-bottle (2).jpg",
     category: "bebida",
   },
   {
@@ -39,7 +39,8 @@ export const products: Product[] = [
     price: 10.0,
     image: "/tocosh-cookies.jpg",
     category: "galleta",
-  },
+  }
+  
 ]
 
 export function getStoredProducts(): Product[] {

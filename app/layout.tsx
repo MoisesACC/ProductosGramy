@@ -12,6 +12,9 @@ import { Footer } from "@/components/footer"
 
 export const metadata: Metadata = {
   title: "GRAMY - Productos de Tocosh",
+  icons: {
+    icon: "/etiqueta.png", // o "/icon.png"
+  },
   description: "Tienda online de productos hechos con tocosh",
   generator: "v0.app",
 }

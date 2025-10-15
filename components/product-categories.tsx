@@ -15,12 +15,12 @@ const categories = [
   },
   {
     name: "Bebida de Tocosh",
-    image: "/tocosh-drink-bottle.jpg",
+    image: "/bebidaTocosh.png",
     href: "/productos?category=bebida",
   },
   {
     name: "Galleta de Tocosh",
-    image: "/tocosh-cookies.jpg",
+    image: "/galletaTocosh.png",
     href: "/productos?category=galleta",
   },
 ]
