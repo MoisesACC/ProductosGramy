@@ -10,6 +10,7 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import Image from "next/image"
 import { registerUser } from "@/lib/auth"
+import { Navbar } from "@/components/navbar"
 
 export default function RegistroPage() {
   const router = useRouter()
