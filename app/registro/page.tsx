@@ -59,13 +59,12 @@ export default function RegistroPage() {
       <div className="w-full max-w-md">
         <div className="bg-[#EDE4CC] rounded-lg shadow-lg p-8">
           {/* Logo */}
-          <div className="flex justify-center mb-6">
-            <div className="w-32 h-32 relative">
+          <div className="flex justify-center mb-4 md:mb-6">
+            <div className="w-40 h-40 md:w-100 md:h-72 relative">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imagen1-pOBF9GPHohJIHL5lgdNLq0aOmmXm7b.png"
+                src="/logo.jpg"
                 alt="Postres Originales Logo"
-                width={128}
-                height={128}
+                fill
                 className="object-contain"
               />
             </div>

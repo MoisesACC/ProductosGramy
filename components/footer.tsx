@@ -66,11 +66,6 @@ export function Footer() {
                   Mi Cuenta
                 </Link>
               </li>
-              <li>
-                <Link href="/admin" className="text-white/80 hover:text-white transition-colors">
-                  Panel Admin
-                </Link>
-              </li>
             </ul>
           </div>
 
